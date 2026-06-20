@@ -53,4 +53,3 @@ The dashboard is organized in three layers:
 ## Author
 
 **Meerub Nadeem**
-linkedin.com/in/meerub-nadeem-9a4225279
