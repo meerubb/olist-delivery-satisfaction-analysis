@@ -47,7 +47,6 @@ The dashboard is organized in three layers:
 
 ## Files
 
-- `DashBoard.pbix` — Power BI dashboard file
 - `Delivery_Performance_Analysis_Report.pdf` — full written analysis report
 - `dashboard_screenshot.png` — dashboard preview image
 
